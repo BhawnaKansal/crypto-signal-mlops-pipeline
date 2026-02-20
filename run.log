@@ -1,0 +1,43 @@
+2026-02-20 16:28:50,975 - INFO - Job started
+2026-02-20 16:28:50,991 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 16:28:50,992 - ERROR - Error occurred: Input CSV file not found
+2026-02-20 16:28:50,992 - INFO - Job failed in 16ms
+2026-02-20 16:32:18,787 - INFO - Job started
+2026-02-20 16:32:18,803 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 16:32:18,864 - INFO - Data loaded: 10000 rows
+2026-02-20 16:32:18,870 - INFO - Rolling mean calculated with window=5
+2026-02-20 16:32:18,873 - INFO - Signals generated
+2026-02-20 16:32:18,875 - INFO - Metrics: signal_rate=0.4989, rows_processed=10000
+2026-02-20 16:32:18,875 - INFO - Job completed successfully in 84ms
+2026-02-20 17:20:00,875 - INFO - Job started
+2026-02-20 17:20:00,877 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 17:20:00,896 - ERROR - Error occurred: "['rolling_mean'] not in index"
+2026-02-20 17:20:00,896 - INFO - Job failed in 19ms
+2026-02-20 17:21:31,239 - INFO - Job started
+2026-02-20 17:21:31,240 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 17:21:31,256 - INFO - Data loaded: 10000 rows
+2026-02-20 17:21:31,291 - INFO - Rolling mean calculated with window=5
+2026-02-20 17:21:31,292 - INFO - Signals generated
+2026-02-20 17:21:31,292 - INFO - Metrics: signal_rate=0.4989, rows_processed=10000
+2026-02-20 17:21:31,292 - INFO - Job completed successfully in 52ms
+2026-02-20 12:08:28,098 - INFO - Job started
+2026-02-20 12:08:28,105 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 12:08:28,151 - INFO - Data loaded: 10000 rows
+2026-02-20 12:08:28,162 - INFO - Rolling mean calculated with window=5
+2026-02-20 12:08:28,163 - INFO - Signals generated
+2026-02-20 12:08:28,168 - INFO - Metrics: signal_rate=0.4989, rows_processed=10000
+2026-02-20 12:08:28,169 - INFO - Job completed successfully in 64ms
+2026-02-20 12:08:57,767 - INFO - Job started
+2026-02-20 12:08:57,776 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 12:08:57,825 - INFO - Data loaded: 10000 rows
+2026-02-20 12:08:57,830 - INFO - Rolling mean calculated with window=5
+2026-02-20 12:08:57,832 - INFO - Signals generated
+2026-02-20 12:08:57,838 - INFO - Metrics: signal_rate=0.4989, rows_processed=10000
+2026-02-20 12:08:57,838 - INFO - Job completed successfully in 64ms
+2026-02-20 12:14:06,201 - INFO - Job started
+2026-02-20 12:14:06,207 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 12:14:06,247 - INFO - Data loaded: 10000 rows
+2026-02-20 12:14:06,253 - INFO - Rolling mean calculated with window=5
+2026-02-20 12:14:06,254 - INFO - Signals generated
+2026-02-20 12:14:06,261 - INFO - Metrics: signal_rate=0.4989, rows_processed=10000
+2026-02-20 12:14:06,261 - INFO - Job completed successfully in 52ms
